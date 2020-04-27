@@ -9,7 +9,6 @@
 <p>- We will also try to explain what stars are, how to recognize some of the stars in the night sky, Nebulae and much more.</p>
 <p> </p>
 <p> # Short Description - App</p>
-<p>- The app will be a .json server which will have a search bar for the user to search for a certain star. </p>
 <p>- The data that will show will be as detailed as possible about that certain star. E.g. name, size, elements, approx. age, is the size
   enough for a supernova, in which galaxy is the searched star.</p>
 <p>- We will also try to work on finding a nice way to expand our data base as efficiently as possible.</p>
